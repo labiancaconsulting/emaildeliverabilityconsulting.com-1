@@ -20,4 +20,4 @@ I found a few good starter projects using these technologies, but was overall un
 
 This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
 
-![Fern in Hand](/static/img/fern-in-hand.jpeg "Fern in Hand")
+![Writing email](https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZW1haWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60 "writing email")
