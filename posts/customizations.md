@@ -3,7 +3,7 @@ title: Change featured image
 date: 2022-07-30T04:11:22.787Z
 author: Mrinmoy Haloi
 summary: learn how to change the article featured image
-image: static/img/logo.png
+image: https://candid-tiramisu-915972.netlify.app/static/img/logo.png
 tags:
   - environment
   - sport
